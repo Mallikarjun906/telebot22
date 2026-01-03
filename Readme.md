@@ -4,4 +4,4 @@
 * NODE JS
 * TELEGRAPH PACKAGE
 ##screenshot
-![Screenshot](assets/Screenshot (2).png)
+![Screenshot](assets/Screenshot(2).png)
